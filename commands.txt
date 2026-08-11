@@ -1,0 +1,8 @@
+"open chrome" → launches Chrome browser
+"open notepad" → launches Notepad
+"what time is it" → speaks back the current time
+"what is today" → speaks back today's date
+
+"open file explorer" → opens Windows File Explorer
+"open vs code" → launches Visual Studio Code (adjust path if needed)
+"search google for" → opens Google search (you say "search google for python tutorials" and it searches)

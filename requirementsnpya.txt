@@ -1,0 +1,6 @@
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+PyAutoGUI==0.9.53
+requests==2.31.0
+
+## Do "pip install -r requirementsnpya.txt" to install all the dependencies listed in this file.
