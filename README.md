@@ -1,4 +1,4 @@
-#Mystis.AI
+# Mystis.AI
 
 A Jarvis-inspired voice-controlled desktop AI assistant for Windows. Mystis.AI responds to natural voice commands and executes actions across your system, powered by modular Python architecture.
 
